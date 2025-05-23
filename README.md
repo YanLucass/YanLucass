@@ -1,12 +1,14 @@
-<h2 align="left">Hello world!</h2>
+<h2 align="left">Hey, what's up?  It's a pleasure to have you here</h2>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="200" src="https://i.imgur.com/pXGa454.jpeg"  />
 
 ###
 
-<p align="left">ffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdf<br>ffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdf<br>ffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdfffsdfsdf<br>ffsdfsdfffsdfsdfffsdfsdf<br>ffsdfsdfffsdfsdfffsdfsdf<br>ffsdfsdfffsdfsdfffsdfsdf<br>ffsdfsdfffsdfsdf</p>
+<h3 align="left">🤖 Software developer Jr<br><br>🎓 Internet Systems<br><br>📍 Recife/PE</h3>
 
 ###
 
@@ -60,6 +62,16 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<div align="center">
+  <a href="https://open.spotify.com/user/saturnsbr">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=saturnsbr&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 ###
