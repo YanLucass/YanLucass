@@ -5,13 +5,17 @@
 <h3 align="left">About me</h3>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <p align="left">
-    🤖 Backend Engineer Jr<br><br>
-    🎓 Internet Systems<br><br>
-    📍 Recife/PE
-  </p>
-  
-  <img height="200" src="https://i.imgur.com/pXGa454.jpeg" alt="Profile picture" />
+  <div style="width: 60%;">
+    <p align="left">
+      🤖 Backend Engineer Jr<br><br>
+      🎓 Internet Systems<br><br>
+      📍 Recife/PE
+    </p>
+  </div>
+
+  <div style="width: 35%; text-align: right;">
+    <img height="200" src="https://i.imgur.com/pXGa454.jpeg" alt="Profile picture" />
+  </div>
 </div>
 
 
