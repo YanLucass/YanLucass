@@ -6,10 +6,15 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://i.imgur.com/pXGa454.jpeg"  />
-  <h3>🤖 Backend Engineer Jr<br><br>🎓 Internet Systems<br><br>📍 Recife/PE</h3>
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
+  <img height="200" src="https://i.imgur.com/pXGa454.jpeg" alt="Profile Picture" />
+  <div>
+    <h3>🤖 Backend Engineer Jr</h3>
+    <h3>🎓 Internet Systems</h3>
+    <h3>📍 Recife/PE</h3>
+  </div>
 </div>
+
 
 ###
 
