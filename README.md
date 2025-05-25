@@ -2,13 +2,15 @@
 
 ###
 
-<br clear="both">
+<p align="left"></p>
+
+###
 
 <img align="right" height="200" src="https://i.imgur.com/pXGa454.jpeg"  />
 
 ###
 
-<h3 align="left">🤖 Software developer Jr<br><br>🎓 Internet Systems<br><br>📍 Recife/PE</h3>
+<h3 align="left">🤖 Backend Engineer Jr<br><br>🎓 Internet Systems<br><br>📍 Recife/PE</h3>
 
 ###
 
@@ -38,7 +40,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YanLucass&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YanLucass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -54,24 +56,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/saturnsbr">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=saturnsbr&count=1&unique=true" alt="Spotify recently played"  />
+  <a href="https://www.linkedin.com/in/yanlucass/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
