@@ -6,7 +6,7 @@
 
 ###
 
-<!-- Foto + descrição lado a lado -->
+
 <table>
   <tr>
     <td>
