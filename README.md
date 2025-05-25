@@ -6,11 +6,13 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgur.com/pXGa454.jpeg"  />
+<div align="left">
+  <img height="200" src="https://i.imgur.com/pXGa454.jpeg"  />
+  <h3>🤖 Backend Engineer Jr<br><br>🎓 Internet Systems<br><br>📍 Recife/PE</h3>
+</div>
 
 ###
 
-<h3 align="left">🤖 Backend Engineer Jr<br><br>🎓 Internet Systems<br><br>📍 Recife/PE</h3>
 
 ###
 
